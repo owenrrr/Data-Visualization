@@ -1,23 +1,17 @@
 # Data Visualization
 ```
-.idea
- venv
- 	- Lib
- 	- Scripts
- 	- includes
- 	          - _pycache_
- 	          - src
- 	          - final.csv     
- 	          - main.py       
- 	          - test.py       // transformer between json & csv  
-              - resource 
-                       - csv
-                       - json // put original data here 
+- csv
+- json             // original files
+- fixed            // fixed data
+- main.py         
+- players_ranking.py     // examples of fixing data
+- test.py          // csv to json && json to csv
+
 ```
 
 
 
-***If you want to use it successfully, check out the main.py and rewrite the code that fit yours***
+***If you want to use it successfully, check out the players_ranking.py and rewrite the code that fit yours***
 
 
 
@@ -25,7 +19,7 @@
 
 ​	put the json files in the directory named 'json'. Specially, json only can have at most 4 keys.
 
-​	I use the github project from <a href="https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js">here</a> . Maybe you can visit his project , that's better. lol
+​	I use the github project from <a href="https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js">here</a> . Maybe you can visit his project , that will be better. 
 
 
 
